@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ngcly&repo=MusicStory" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ngcly&repo=MusicStory＆show_icons = true＆theme = radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ngcly&repo=music-story" />
